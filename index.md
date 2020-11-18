@@ -2,7 +2,7 @@
 layout: cv
 title: Richard Kastiak's CV
 ---
-# Bc. Richard Kaštiak <img src="https://doc-08-38-docs.googleusercontent.com/docs/securesc/5b0k4okpupgdh8ueu5294icf1bu6obbl/br5i5v4lnf16qgp8bghvq84mt7sghavi/1605726525000/04448471820919557511/04448471820919557511/0B7NQVvJGGmOHYnJVOEJ5SFFaekE?e=view&authuser=0&nonce=2tt7gah4ne09s&user=04448471820919557511&hash=fsdne8t29ojtmmkmiaiip5arllcsf7al" width="200" height="200" />
+# Bc. Richard Kaštiak <img src="https://doc-08-38-docs.googleusercontent.com/docs/securesc/5b0k4okpupgdh8ueu5294icf1bu6obbl/br5i5v4lnf16qgp8bghvq84mt7sghavi/1605726525000/04448471820919557511/04448471820919557511/0B7NQVvJGGmOHYnJVOEJ5SFFaekE?e=view&authuser=0&nonce=2tt7gah4ne09s&user=04448471820919557511&hash=fsdne8t29ojtmmkmiaiip5arllcsf7al" width="30" height="40" />
 
 <div id="webaddress">
 <a href="kastiak.richard@gmail.com">kastiak.richard@gmail.com</a>
