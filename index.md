@@ -9,6 +9,21 @@ title: Richard Kastiak's CV
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
+## Osobné údaje:
+`Meno:`
+Richard Kaštiak
+`Dátum narodenia:`	
+26.1.1997
+
+`Adresa bydliska:`	
+Beňadická 1, Bratislava 3090/1
+
+`Mobil:`	
++421 949 534 681
+
+`E-mail:`	
+kastiak.richard@gmail.com
+
 ## Vzdelanie:
 `2003–2012`
 __Základná škola Matky Alexie v Bratislave__
@@ -49,7 +64,7 @@ __iné__
 - Nemecký jazyk:  C1
 
 ## O mne:
-- 
+- vam poviem holy kkt
 
 ## Pracovné skúsenosti
 `2015-2019`
