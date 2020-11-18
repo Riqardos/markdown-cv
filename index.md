@@ -10,12 +10,22 @@ title: Richard Kastiak's CV
 </div>
 
 ## Osobné údaje:
-<img src="https://drive.google.com/uc?export=view&id=0B7NQVvJGGmOHYnJVOEJ5SFFaekE" width="60" height="80" />
-- Richard Kaštiak
+<table border="0">
+ <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=0B7NQVvJGGmOHYnJVOEJ5SFFaekE" width="60" height="80" />
+</td>
+ </tr>
+ <tr>
+    <td> 
+  - Richard Kaštiak
 - narodený 26.1.1997
 - Beňadická 1, 85106 Bratislava 3090/1
 - +421 949 534 681
 - kastiak.richard@gmail.com
+  </td>
+ </tr>
+</table>
+
 
 ## Vzdelanie:
 `2003–2012`
