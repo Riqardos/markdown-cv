@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Richard Kastiak's CV
 ---
 # Bc. Richard Kaštiak
 Physicist, Mathematician, Cambridge professor.
@@ -9,6 +9,7 @@ Physicist, Mathematician, Cambridge professor.
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 ## Vzdelanie:
 `2003–2012`
@@ -28,14 +29,6 @@ __Fakulta informatiky Masarykovej univerzity v Brne__
 ## Jazykové znalosti:
 - Anglický jazyk: B2
 - Nemecký jazyk: C1
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
 
 ## Pracovné skúsenosti
 `2015-2019`
