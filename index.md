@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Richard Kaštiak
+# Bc. Richard Kaštiak
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
