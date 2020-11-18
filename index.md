@@ -2,10 +2,11 @@
 layout: cv
 title: Richard Kastiak's CV
 ---
-# Bc. Richard Kaštiak ![](https://doc-08-38-docs.googleusercontent.com/docs/securesc/5b0k4okpupgdh8ueu5294icf1bu6obbl/lq9h17mcsf60s0agdp0ln77uhld2tvc9/1605726000000/04448471820919557511/04448471820919557511/0B7NQVvJGGmOHYnJVOEJ5SFFaekE?e=view&authuser=0&nonce=7ihmf6lq2ra0u&user=04448471820919557511&hash=sihg0t01nn8unemdms4dmahjk4glisre= 100x100)
+# Bc. Richard Kaštiak <img src="https://doc-08-38-docs.googleusercontent.com/docs/securesc/5b0k4okpupgdh8ueu5294icf1bu6obbl/lq9h17mcsf60s0agdp0ln77uhld2tvc9/1605726000000/04448471820919557511/04448471820919557511/0B7NQVvJGGmOHYnJVOEJ5SFFaekE?e=view&authuser=0&nonce=7ihmf6lq2ra0u&user=04448471820919557511&hash=sihg0t01nn8unemdms4dmahjk4glisre" width="200" height="200" />
+
 <div id="webaddress">
 <a href="kastiak.richard@gmail.com">kastiak.richard@gmail.com</a>
-| <a href="https://www.instagram.com/riqardos/">Instagram</a>
+| <i class="fa fa-instagram"></i><a href="https://www.instagram.com/riqardos/">Instagram</a>
 </div>
 
 ## Osobné údaje:
