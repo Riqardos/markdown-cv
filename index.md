@@ -6,14 +6,13 @@ title: Richard Kastiak's CV
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="kastiak.richard@gmail.com">kastiak.richard@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 ## Vzdelanie:
 `2003–2012`
-__Základná škola Matky Alexie v Bratislav.__
+__Základná škola Matky Alexie v Bratislave__
 
 `2012-2017`
 __nemecké bilingválne Gymnázium, Bilíkova 24__
@@ -26,9 +25,24 @@ __Fakulta informatiky a informačných technológií STU v Bratislave__
 __Fakulta informatiky Masarykovej univerzity v Brne__
 - Umělá inteligence a zpracování přirozeného jazyka
 
+## Počítačové znalosti:
+### Jazyky/Techológie
+__python__             pokročilý
+- Django, RestFramework, Pandas, Pytorch             
+__javascript__         
+- react, react native (skromný) začiatočník
+__iné__
+- C, Bash             začiatočník
+- PostgreSQL          začiatočník
+- Github              (skromný) začiatočník
+### Off topic
+- AI, ML, Data science  začiatočník
+- Office...             pokročilý
+- Adobe Photoshop       pokročilý
+
 ## Jazykové znalosti:
 - Anglický jazyk: B2
-- Nemecký jazyk: C1
+- Nemecký jazyk:  C1
 
 ## Pracovné skúsenosti
 `2015-2019`
