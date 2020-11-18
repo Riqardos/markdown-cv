@@ -58,7 +58,7 @@ __iné__
 - vam poviem holy kkt
 
 ## Záujmy:
-- Som IT guy, :computer: [Thinkpad-ista](https://www.reddit.com/r/thinkpad/), ktorý rád sleduje nové technológie, a ešte radšej ich implementuje. Vrámci dodržiavanie kalokagatie rád športujem, :running: behám (ultra behy),  :surfer: surfujem (windsurf-toto leto, wakeboard). Mám blízko aj k fotografovaniu :camera:, pomocou ktorého si viem lepšie zabezpečit perzistenciu zážitkov. Alkohol, drogy and other stuff sú mi tiež nie cudzie.
+- Som IT guy, :computer: [Thinkpad-ista](https://www.reddit.com/r/thinkpad/), ktorý rád sleduje nové technológie, a ešte radšej ich implementuje. Vrámci dodržiavanie kalokagatie rád športujem, :running: behám (ultra behy),  🏄‍ surfujem (windsurf-toto leto, wakeboard). Mám blízko aj k fotografovaniu :camera:, pomocou ktorého si viem lepšie zabezpečit perzistenciu zážitkov. Alkohol, drogy and other stuff sú mi tiež nie cudzie.
 
 ## Pracovné skúsenosti
 `2015-2019`
