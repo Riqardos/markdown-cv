@@ -6,6 +6,7 @@ title: Richard Kastiak's CV
 <div id="webaddress">
 <a href="kastiak.richard@gmail.com">kastiak.richard@gmail.com</a>
 | <a href="https://www.instagram.com/riqardos/">Instagram</a>
+ <iframe src="https://drive.google.com/file/d/0B7NQVvJGGmOHYnJVOEJ5SFFaekE/preview" width="640" height="480"></iframe>
 </div>
 
 ## Osobné údaje:
@@ -37,7 +38,7 @@ __Fakulta informatiky Masarykovej univerzity v Brne__
 - javascript (react, react native) - pokročilý
 - C, Bash, Java - pokročilý/začiatočník
  
-### Iné
+### Iné:
 - AI, ML, Data science - začiatočník
 - HTML5, CSS - pokročilý
 - PostgreSQL - začiatočník
