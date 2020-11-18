@@ -24,24 +24,24 @@ __nemecké bilingválne Gymnázium, Bilíkova 24__
 
 `2017-2020`
 __Fakulta informatiky a informačných technológií STU v Bratislave, FIIT STU__
-- ešte pôvodné vedenie
-- BP: [Detekcia nedôveryhodných informácií na internete](http://opac.crzp.sk/?fn=detailBiblioForm&sid=F0D9EA643ED404031EEE171BE0B8&seo=CRZP-detail-kniha)
+- za pôvodného vedenia
+- Bakalárska práca: [Detekcia nedôveryhodných informácií na internete](http://opac.crzp.sk/?fn=detailBiblioForm&sid=F0D9EA643ED404031EEE171BE0B8&seo=CRZP-detail-kniha)
 
 `2020-teraz`
 __Fakulta informatiky Masarykovej univerzity v Brne__
 - Umělá inteligence a zpracování přirozeného jazyka
 
 ## Počítačové znalosti:
-__python__ (Django, RestFramework, Pytorch) - pokročilý 
-
-__javascript__ (react, react native) 
-
-__iné__
-- HTML, CSS - pokročilý
-- C, Bash - pokročilý
+### Jazyky:
+- python (Django, RestFramework, Pytorch) - pokročilý 
+- javascript (react, react native) - pokročilý
+- C, Bash, Java - pokročilý/začiatočník
+ 
+### Iné
+- AI, ML, Data science - začiatočník
+- HTML5, CSS - pokročilý
 - PostgreSQL - začiatočník
 - Github - pokročilý
-- AI, ML, Data science - začiatočník
 - Office... - pokročilý
 - Adobe Photoshop - pokročilý
 
