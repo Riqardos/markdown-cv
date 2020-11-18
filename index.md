@@ -6,27 +6,19 @@ title: Richard Kastiak's CV
 
 <div id="webaddress">
 <a href="kastiak.richard@gmail.com">kastiak.richard@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.instagram.com/riqardos/">Instagram</a>
 </div>
 
 ## Osobné údaje:
-`Meno:`
-Richard Kaštiak
-`Dátum narodenia:`	
-26.1.1997
-
-`Adresa bydliska:`	
-Beňadická 1, Bratislava 3090/1
-
-`Mobil:`	
-+421 949 534 681
-
-`E-mail:`	
-kastiak.richard@gmail.com
+- Richard Kaštiak
+- 26.1.1997 - 2020 = 23 rokov
+- Beňadická 1, 85106 Bratislava 3090/1
+- +421 949 534 681
+- kastiak.richard@gmail.com
 
 ## Vzdelanie:
 `2003–2012`
-__Základná škola Matky Alexie v Bratislave__
+__Základná škola Matky Alexie v Bratislave :church:__ 
 
 `2012-2017`
 __nemecké bilingválne Gymnázium, Bilíkova 24__
@@ -43,33 +35,39 @@ __Fakulta informatiky Masarykovej univerzity v Brne__
 
 ### Jazyky/Techológie
 
-__python__             pokročilý
-- Django, RestFramework, Pytorch       
+__python__ (Django, RestFramework, Pytorch) - pokročilý 
 
-__javascript__         
-- react, react native (skromný) začiatočník
+__javascript__ (react, react native) - **začiatočník** 
 
 __iné__
-- C, Bash             začiatočník
-- PostgreSQL          začiatočník
-- Github              začiatočník
+- C, Bash - pokročilý
+- Java - 
+- PostgreSQL - začiatočník
+- Github - pokročilý
 
 ### Off topic
-- AI, ML, Data science  začiatočník
-- Office...             pokročilý
-- Adobe Photoshop       pokročilý
+- AI, ML, Data science - začiatočník
+- Office... - pokročilý
+- Adobe Photoshop - pokročilý
 
 ## Jazykové znalosti:
 - Anglický jazyk: B2
-- Nemecký jazyk:  C1
+- Nemecký jazyk: C1
 
 ## O mne:
 - vam poviem holy kkt
+
+## Záujmy:
+- Som IT guy, :computer: [Thinkpad-ista](https://www.reddit.com/r/thinkpad/), ktorý rád sleduje nové technológie, a ešte radšej ich implementuje. Vrámci dodržiavanie kalokagatie rád športujem, :running: behám (ultra behy),  :surfer: surfujem (windsurf-toto leto, wakeboard). Mám blízko aj k fotografovaniu :camera:, pomocou ktorého si viem lepšie zabezpečit perzistenciu zážitkov. Alkohol, drogy and other stuff sú mi tiež nie cudzie.
 
 ## Pracovné skúsenosti
 `2015-2019`
 __Tatra banka, a.s., odd. Mobilných aplikácií__
 - správa a údržba mobilných zariadení, spracovanie dát v Exceli
+
+`leto 2018, 2019, 2020`
+__Wasserskilift in Großbeeren GmbH, in Berlin :de:__
+- prevádzka a inštruktáž vodných športov (Wakeboard, Lyže) v nemčine
 
 
 <!-- ### Footer
