@@ -3,7 +3,6 @@ layout: cv
 title: Richard Kastiak's CV
 ---
 # Bc. Richard Kaštiak
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="kastiak.richard@gmail.com">kastiak.richard@gmail.com</a>
@@ -19,22 +18,27 @@ __nemecké bilingválne Gymnázium, Bilíkova 24__
 
 `2017-2020`
 __Fakulta informatiky a informačných technológií STU v Bratislave__
-- BP: [Detekcia nedoveryhodných informácií na internete](http://opac.crzp.sk/?fn=detailBiblioForm&sid=F0D9EA643ED404031EEE171BE0B8&seo=CRZP-detail-kniha)
+- BP: [Detekcia nedôveryhodných informácií na internete](http://opac.crzp.sk/?fn=detailBiblioForm&sid=F0D9EA643ED404031EEE171BE0B8&seo=CRZP-detail-kniha)
 
 `2020-`
 __Fakulta informatiky Masarykovej univerzity v Brne__
 - Umělá inteligence a zpracování přirozeného jazyka
 
 ## Počítačové znalosti:
+
 ### Jazyky/Techológie
+
 __python__             pokročilý
-- Django, RestFramework, Pandas, Pytorch             
+- Django, RestFramework, Pytorch       
+
 __javascript__         
 - react, react native (skromný) začiatočník
+
 __iné__
 - C, Bash             začiatočník
 - PostgreSQL          začiatočník
-- Github              (skromný) začiatočník
+- Github              začiatočník
+
 ### Off topic
 - AI, ML, Data science  začiatočník
 - Office...             pokročilý
@@ -43,6 +47,9 @@ __iné__
 ## Jazykové znalosti:
 - Anglický jazyk: B2
 - Nemecký jazyk:  C1
+
+## O mne:
+- 
 
 ## Pracovné skúsenosti
 `2015-2019`
