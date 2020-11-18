@@ -11,7 +11,7 @@ title: Richard Kastiak's CV
 
 ## Osobné údaje:
 - Richard Kaštiak
-- 26.1.1997 - 2020 = 23 rokov
+- narodený 26.1.1997
 - Beňadická 1, 85106 Bratislava 3090/1
 - +421 949 534 681
 - kastiak.richard@gmail.com
@@ -27,7 +27,7 @@ __nemecké bilingválne Gymnázium, Bilíkova 24__
 __Fakulta informatiky a informačných technológií STU v Bratislave__
 - BP: [Detekcia nedôveryhodných informácií na internete](http://opac.crzp.sk/?fn=detailBiblioForm&sid=F0D9EA643ED404031EEE171BE0B8&seo=CRZP-detail-kniha)
 
-`2020-`
+`2020-teraz`
 __Fakulta informatiky Masarykovej univerzity v Brne__
 - Umělá inteligence a zpracování přirozeného jazyka
 
@@ -41,7 +41,6 @@ __javascript__ (react, react native) - **začiatočník**
 
 __iné__
 - C, Bash - pokročilý
-- Java - 
 - PostgreSQL - začiatočník
 - Github - pokročilý
 
@@ -55,10 +54,10 @@ __iné__
 - Nemecký jazyk: C1
 
 ## O mne:
-- vam poviem holy kkt
+Nerád robím veci na poslednú chvílu, strážim si svoj time-management. Mám zmysel pre detail, aj keď viem, že jeho uskutočnenie zaberá veľa času. Pri náročnejších problémoch, nad ktorými je potrebné hlboké zamyslenie väčšinou reagujem na podnety z vonkajšieho prostredia s priemernou odozvou 6s alebo SEGMENTATION FAULT. Rád mám veci odkomunikované a uvedené na pravú mieru, aby nedochádzalo k zbytočným nedorozumeniam. Nebojím sa pýtať, odpovedať a riadim sa mottom `Mýliť sa je ľudské, ale odpúšťať je Božské`.  
 
 ## Záujmy:
-- Som IT guy, :computer: [Thinkpad-ista](https://www.reddit.com/r/thinkpad/), ktorý rád sleduje nové technológie, a ešte radšej ich implementuje. Vrámci dodržiavanie kalokagatie rád športujem, :running: behám (ultra behy),  🏄‍ surfujem (windsurf-toto leto, wakeboard). Mám blízko aj k fotografovaniu :camera:, pomocou ktorého si viem lepšie zabezpečit perzistenciu zážitkov. Alkohol, drogy and other stuff sú mi tiež nie cudzie.
+Som IT guy, 💻 [Thinkpad-ista](https://www.reddit.com/r/thinkpad/), ktorý rád sleduje nové technológie, a ešte radšej ich implementuje. Vrámci dodržiavanie kalokagatie rád športujem, 🏃 behám (ultra behy),  🏄‍ surfujem (windsurf- toto leto, wakeboard). Mám blízko aj k fotografovaniu 📸, pomocou ktorého si viem lepšie zabezpečit perzistenciu zážitkov. 
 
 ## Pracovné skúsenosti
 `2015-2019`
